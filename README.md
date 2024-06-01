@@ -12,7 +12,7 @@ https://sepolia-optimism.etherscan.io/address/0xc53f6c8180b0D2E38547297E65DE86C6
 
 
 # Demo
-https://vm.tiktok.com/ZMrJXt5wY/
+https://www.youtube.com/watch?v=pZiL-9P48i0&ab_channel=fernandamu%C3%B1oz
 
 # Presentaciòn 
 https://view.genially.com/665673cc7342c00015a464b4/presentation-eletec
